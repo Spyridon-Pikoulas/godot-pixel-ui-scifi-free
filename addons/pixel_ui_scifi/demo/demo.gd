@@ -113,6 +113,7 @@ static func label(parent: Control, text: String) -> Label:
 
 
 func _ready() -> void:
+	get_viewport().canvas_item_default_texture_filter = Viewport.DEFAULT_CANVAS_ITEM_TEXTURE_FILTER_NEAREST  # project.godot's, for a project without it
 	pixel_scale(self, ART_HEIGHT)
 	add_child(Starfield.new())
 	theme = kit_theme("cyan")
