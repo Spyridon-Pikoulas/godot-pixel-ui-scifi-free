@@ -3,6 +3,13 @@
 **A free sci-fi pixel-art GUI theme for Godot 4, and 9-slice PNGs for any engine.** Set it in
 Project Settings and every Button, slider, tab, checkbox and window in your game takes it on.
 
+### Want more?
+
+**[Pixel UI Sci-Fi](https://heyheythere.itch.io/pixel-ui-scifi)** has six neon themes (cyan, amber,
+green, magenta, red and steel), 56 icons (planets, aliens, robots, satellites, chips, radar,
+keycards, credits, crystals, cargo, and a full menu set) and four HUD reticles. Same files and
+names: install it over this one.
+
 ### What's inside
 
 - **The cyan theme** as a Godot `Theme` resource: buttons (normal, hover, pressed, disabled),
@@ -15,13 +22,6 @@ Project Settings and every Button, slider, tab, checkbox and window in your game
 - **A square pixel font** with all of printable ASCII, as a BMFont that Godot reads directly.
 - **Hull, shield, energy and stamina bar fills**, a HUD reticle, and a mouse cursor at 1x to 4x.
 - Every piece is also a plain PNG, with its 9-slice borders in the README and in `slices.json`.
-
-### Want more?
-
-**[Pixel UI Sci-Fi](https://heyheythere.itch.io/pixel-ui-scifi)** has six neon themes (cyan, amber,
-green, magenta, red and steel), 56 icons (planets, aliens, robots, satellites, chips, radar,
-keycards, credits, crystals, cargo, and a full menu set) and four HUD reticles. Same files and
-names: install it over this one.
 
 ### Compatibility
 

@@ -4,6 +4,11 @@ A sci-fi pixel-art GUI and HUD skin for Godot 4.3+: colour themes as ready-made 
 resources, icons, segmented bar fills, HUD reticles, a cursor and a bitmap font. Every image is
 also a plain PNG, with its 9-slice margins listed for any other engine.
 
+**The full pack:** **[Pixel UI Sci-Fi](https://heyheythere.itch.io/pixel-ui-scifi)** has six neon themes (cyan, amber,
+green, magenta, red and steel), 56 icons (planets, aliens, robots, satellites, chips, radar,
+keycards, credits, crystals, cargo, and a full menu set) and four HUD reticles. Same files and
+names: install it over this one.
+
 ## Use it in Godot
 
 1. Copy `addons/pixel_ui_scifi/` into your project.
